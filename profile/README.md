@@ -1,12 +1,20 @@
 <div align="center">
 
-  <a href="https://chaintail.xyz">
-    <img src="https://raw.githubusercontent.com/chaintail-xyz/.github/master/chaintail_text_logo.svg" height="120px" alt="chaintail logo"/>
+  <a href="https://evnt.fi">
+    <img src="images/no-cap.evnt.fi.png" height="120px" alt="no cap logo"/>
   </a>
-  
-<h4>Securities, Equities, and RWA Management</h4>
 
-<p>Zero Touch Compliance, Automated Management, and Transparent Audit Trail</p>
+  <br/>
+  <br/>
+  <pre><a href="https://no-cap.evnt.fi">https://no-cap.evnt.fi</a></pre>
+  
+  <br/>
+  
+<h4>Securities, Equities, and RWA Compliance Platform</h4>
+
+<p>
+  Zero Touch Compliance | Automated Share Management | Transparent Audit Trail
+</p>
 
 
   <br/>
@@ -19,9 +27,9 @@
 [![Static Badge](https://img.shields.io/badge/%40NoCapOnChain-%40NoCapOnChain?style=for-the-badge&logo=X&logoColor=%23ffffff&label=Follow&color=%231c9ff0)](https://twitter.com/#)
   
 
-
-  <a href="https://chaintail.xyz">
-    <img src="https://raw.githubusercontent.com/chaintail-xyz/.github/master/chaintail_logo.svg" width="64px" alt="chaintail logo"/>
+<br/>
+  <a href="https://evnt.fi.xyz">
+    <img src="images/Cap.png" width="64px" alt="no cap hat logo"/>
   </a>
 
 </div>
